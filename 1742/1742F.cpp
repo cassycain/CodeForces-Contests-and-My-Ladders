@@ -40,7 +40,7 @@ void solve(){
     long long sl = 1, tl = 1;
     vector<string>ans;
     for(int i=0;i<n;i++){
-        int q, k;
+        long long q, k;
         string x;
         cin>>q>>k>>x;
         for(char c:x){
